@@ -1,0 +1,9 @@
+{
+  "Enable Bot": false,
+  "Discord Id": "821179896792350760",
+  "Prefix": "?",
+  "Auto Remove Dupes": true,
+  "Checker Ui": "LOG",
+  "ProxyTimeout": "1000",
+  "Capture Subs (Yahoo)": false
+}

@@ -1,0 +1,92 @@
+C:\Users\yoboi\Desktop\Mailify-Recode\Mailify\obj\Debug\Mailify.csprojAssemblyReference.cache
+C:\Users\yoboi\Desktop\Mailify-Recode\Mailify\obj\Debug\Mailify.csproj.CoreCompileInputs.cache
+C:\Users\yoboi\Desktop\Mailify-Recode\Mailify\obj\Debug\Mailify.csproj.CopyComplete
+C:\Users\yoboi\Desktop\Mailify-Recode\bin\Debug\Mailify.exe.config
+C:\Users\yoboi\Desktop\Mailify-Recode\bin\Debug\Mailify.exe
+C:\Users\yoboi\Desktop\Mailify-Recode\bin\Debug\Mailify.pdb
+C:\Users\yoboi\Desktop\Mailify-Recode\Mailify\obj\Debug\Mailify.exe
+C:\Users\yoboi\Desktop\Mailify-Recode\Mailify\obj\Debug\Mailify.pdb
+C:\Users\yoboi\Desktop\School\Some Coding Crap\Mailify-Recode\bin\Debug\Mailify.exe.config
+C:\Users\yoboi\Desktop\School\Some Coding Crap\Mailify-Recode\bin\Debug\Mailify.exe
+C:\Users\yoboi\Desktop\School\Some Coding Crap\Mailify-Recode\bin\Debug\Mailify.pdb
+C:\Users\yoboi\Desktop\School\Some Coding Crap\Mailify-Recode\Mailify\obj\Debug\Mailify.csprojAssemblyReference.cache
+C:\Users\yoboi\Desktop\School\Some Coding Crap\Mailify-Recode\Mailify\obj\Debug\Mailify.csproj.CoreCompileInputs.cache
+C:\Users\yoboi\Desktop\School\Some Coding Crap\Mailify-Recode\Mailify\obj\Debug\Mailify.csproj.CopyComplete
+C:\Users\yoboi\Desktop\School\Some Coding Crap\Mailify-Recode\Mailify\obj\Debug\Mailify.exe
+C:\Users\yoboi\Desktop\School\Some Coding Crap\Mailify-Recode\Mailify\obj\Debug\Mailify.pdb
+C:\Users\yoboi\Desktop\School\School\Some Coding Crap\Mailify-Recode\bin\Debug\Mailify.exe.config
+C:\Users\yoboi\Desktop\School\School\Some Coding Crap\Mailify-Recode\bin\Debug\Mailify.exe
+C:\Users\yoboi\Desktop\School\School\Some Coding Crap\Mailify-Recode\bin\Debug\Mailify.pdb
+C:\Users\yoboi\Desktop\School\School\Some Coding Crap\Mailify-Recode\Mailify\obj\Debug\Mailify.csproj.CoreCompileInputs.cache
+C:\Users\yoboi\Desktop\School\School\Some Coding Crap\Mailify-Recode\Mailify\obj\Debug\Mailify.csproj.CopyComplete
+C:\Users\yoboi\Desktop\School\School\Some Coding Crap\Mailify-Recode\Mailify\obj\Debug\Mailify.exe
+C:\Users\yoboi\Desktop\School\School\Some Coding Crap\Mailify-Recode\Mailify\obj\Debug\Mailify.pdb
+C:\Users\yoboi\Desktop\School\School\Some Coding Crap\Mailify-Recode\Mailify\obj\Debug\Mailify.exe.config
+C:\Users\yoboi\Desktop\School\School\Some Coding Crap\Mailify-Recode\Mailify\obj\Debug\Mailify.csprojAssemblyReference.cache
+C:\Users\biite\Desktop\bin\Debug\Mailify.exe.config
+C:\Users\biite\Desktop\bin\Debug\Mailify.exe
+C:\Users\biite\Desktop\bin\Debug\Mailify.pdb
+C:\Users\biite\Desktop\Mailify\obj\Debug\Mailify.csprojAssemblyReference.cache
+C:\Users\biite\Desktop\Mailify\obj\Debug\Mailify.exe.config
+C:\Users\biite\Desktop\Mailify\obj\Debug\Mailify.csproj.CoreCompileInputs.cache
+C:\Users\biite\Desktop\Mailify\obj\Debug\Mailify.csproj.CopyComplete
+C:\Users\biite\Desktop\Mailify\obj\Debug\Mailify.exe
+C:\Users\biite\Desktop\Mailify\obj\Debug\Mailify.pdb
+C:\Users\yoboi\Desktop\School\School\Some Coding Crap\Mailify-Recode\Biitez\obj\Debug\Mailify.csprojAssemblyReference.cache
+C:\Users\yoboi\Desktop\School\School\Some Coding Crap\Mailify-Recode\Biitez\obj\Debug\Mailify.exe.config
+C:\Users\yoboi\Desktop\School\School\Some Coding Crap\Mailify-Recode\Biitez\obj\Debug\Mailify.csproj.CoreCompileInputs.cache
+C:\Users\yoboi\Desktop\School\School\Some Coding Crap\Mailify-Recode\Biitez\obj\Debug\Mailify.csproj.CopyComplete
+C:\Users\yoboi\Desktop\School\School\Some Coding Crap\Mailify-Recode\Biitez\obj\Debug\Mailify.exe
+C:\Users\yoboi\Desktop\School\School\Some Coding Crap\Mailify-Recode\Biitez\obj\Debug\Mailify.pdb
+C:\Users\yoboi\Desktop\School\School\Some Coding Crap\Mailify-Recode\Mailify-Recode-2\bin\Debug\Mailify.exe.config
+C:\Users\yoboi\Desktop\School\School\Some Coding Crap\Mailify-Recode\Mailify-Recode-2\bin\Debug\Mailify.exe
+C:\Users\yoboi\Desktop\School\School\Some Coding Crap\Mailify-Recode\Mailify-Recode-2\bin\Debug\Mailify.pdb
+C:\Users\yoboi\Desktop\School\School\Some Coding Crap\Mailify-Recode\Mailify-Recode-2\Mailify\obj\Debug\Mailify.csprojAssemblyReference.cache
+C:\Users\yoboi\Desktop\School\School\Some Coding Crap\Mailify-Recode\Mailify-Recode-2\Mailify\obj\Debug\Mailify.exe.config
+C:\Users\yoboi\Desktop\School\School\Some Coding Crap\Mailify-Recode\Mailify-Recode-2\Mailify\obj\Debug\Mailify.csproj.CoreCompileInputs.cache
+C:\Users\yoboi\Desktop\School\School\Some Coding Crap\Mailify-Recode\Mailify-Recode-2\Mailify\obj\Debug\Mailify.csproj.CopyComplete
+C:\Users\yoboi\Desktop\School\School\Some Coding Crap\Mailify-Recode\Mailify-Recode-2\Mailify\obj\Debug\Mailify.exe
+C:\Users\yoboi\Desktop\School\School\Some Coding Crap\Mailify-Recode\Mailify-Recode-2\Mailify\obj\Debug\Mailify.pdb
+C:\Users\biite\Desktop\Mailify-Recode-2\Mailify\obj\Debug\Mailify.csprojAssemblyReference.cache
+C:\Users\biite\Desktop\Mailify-Recode-2\Mailify\obj\Debug\Mailify.exe.config
+C:\Users\biite\Desktop\Mailify-Recode-2\Mailify\obj\Debug\Mailify.csproj.CoreCompileInputs.cache
+C:\Users\biite\Desktop\Mailify-Recode-2\Mailify\obj\Debug\Mailify.exe
+C:\Users\biite\Desktop\Mailify-Recode-2\Mailify\obj\Debug\Mailify.pdb
+C:\Users\biite\Desktop\Mailify-Recode-2\bin\Debug\Mailify.exe.config
+C:\Users\biite\Desktop\Mailify-Recode-2\bin\Debug\Mailify.exe
+C:\Users\biite\Desktop\Mailify-Recode-2\bin\Debug\Mailify.pdb
+C:\Users\biite\Desktop\Mailify-Recode-2\Mailify\obj\Debug\Mailify.csproj.CopyComplete
+C:\Users\yoboi\Desktop\School\School\Some Coding Crap\Mailify-Recode\Mailify-Recode-3\bin\Debug\Mailify.exe.config
+C:\Users\yoboi\Desktop\School\School\Some Coding Crap\Mailify-Recode\Mailify-Recode-3\bin\Debug\Mailify.exe
+C:\Users\yoboi\Desktop\School\School\Some Coding Crap\Mailify-Recode\Mailify-Recode-3\bin\Debug\Mailify.pdb
+C:\Users\yoboi\Desktop\School\School\Some Coding Crap\Mailify-Recode\Mailify-Recode-3\Mailify\obj\Debug\Mailify.csprojAssemblyReference.cache
+C:\Users\yoboi\Desktop\School\School\Some Coding Crap\Mailify-Recode\Mailify-Recode-3\Mailify\obj\Debug\Mailify.exe.config
+C:\Users\yoboi\Desktop\School\School\Some Coding Crap\Mailify-Recode\Mailify-Recode-3\Mailify\obj\Debug\Mailify.csproj.CoreCompileInputs.cache
+C:\Users\yoboi\Desktop\School\School\Some Coding Crap\Mailify-Recode\Mailify-Recode-3\Mailify\obj\Debug\Mailify.csproj.CopyComplete
+C:\Users\yoboi\Desktop\School\School\Some Coding Crap\Mailify-Recode\Mailify-Recode-3\Mailify\obj\Debug\Mailify.exe
+C:\Users\yoboi\Desktop\School\School\Some Coding Crap\Mailify-Recode\Mailify-Recode-3\Mailify\obj\Debug\Mailify.pdb
+C:\Program Files\Google Chrome\School\School\Some Coding Crap\Mailify-Recode\Mailify-Recode-3\bin\Debug\Mailify.exe.config
+C:\Program Files\Google Chrome\School\School\Some Coding Crap\Mailify-Recode\Mailify-Recode-3\bin\Debug\Mailify.exe
+C:\Program Files\Google Chrome\School\School\Some Coding Crap\Mailify-Recode\Mailify-Recode-3\bin\Debug\Mailify.pdb
+C:\Program Files\Google Chrome\School\School\Some Coding Crap\Mailify-Recode\Mailify-Recode-3\Mailify\obj\Debug\Mailify.csprojAssemblyReference.cache
+C:\Program Files\Google Chrome\School\School\Some Coding Crap\Mailify-Recode\Mailify-Recode-3\Mailify\obj\Debug\Mailify.exe.config
+C:\Program Files\Google Chrome\School\School\Some Coding Crap\Mailify-Recode\Mailify-Recode-3\Mailify\obj\Debug\Mailify.csproj.CoreCompileInputs.cache
+C:\Program Files\Google Chrome\School\School\Some Coding Crap\Mailify-Recode\Mailify-Recode-3\Mailify\obj\Debug\Mailify.csproj.CopyComplete
+C:\Program Files\Google Chrome\School\School\Some Coding Crap\Mailify-Recode\Mailify-Recode-3\Mailify\obj\Debug\Mailify.exe
+C:\Program Files\Google Chrome\School\School\Some Coding Crap\Mailify-Recode\Mailify-Recode-3\Mailify\obj\Debug\Mailify.pdb
+C:\Users\yoboi\Desktop\Prj\Mailify\Mailify\obj\Debug\Mailify.csprojAssemblyReference.cache
+C:\Users\yoboi\Desktop\Prj\Mailify\Mailify\obj\Debug\Mailify.csproj.CoreCompileInputs.cache
+C:\Users\yoboi\Desktop\Prj\Mailify\Mailify\obj\Debug\Mailify.exe
+C:\Users\yoboi\Desktop\Prj\Mailify\Mailify\obj\Debug\Mailify.pdb
+C:\Users\yoboi\Desktop\Prj\Mailify\bin\Debug\Mailify.exe.config
+C:\Users\yoboi\Desktop\Prj\Mailify\bin\Debug\Mailify.exe
+C:\Users\yoboi\Desktop\Prj\Mailify\bin\Debug\Mailify.pdb
+C:\Users\yoboi\Desktop\Prj\Mailify\Mailify\obj\Debug\Mailify.csproj.CopyComplete
+C:\Users\yoboi\Desktop\Mailify\bin\Debug\Mailify.exe.config
+C:\Users\yoboi\Desktop\Mailify\bin\Debug\Mailify.exe
+C:\Users\yoboi\Desktop\Mailify\bin\Debug\Mailify.pdb
+C:\Users\yoboi\Desktop\Mailify\Mailify\obj\Debug\Mailify.csprojAssemblyReference.cache
+C:\Users\yoboi\Desktop\Mailify\Mailify\obj\Debug\Mailify.csproj.CoreCompileInputs.cache
+C:\Users\yoboi\Desktop\Mailify\Mailify\obj\Debug\Mailify.csproj.CopyComplete
+C:\Users\yoboi\Desktop\Mailify\Mailify\obj\Debug\Mailify.exe
+C:\Users\yoboi\Desktop\Mailify\Mailify\obj\Debug\Mailify.pdb

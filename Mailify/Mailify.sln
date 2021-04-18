@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mailify", "Mailify.csproj", "{AB13B4E2-0BA9-446B-9B9F-6C155A1333FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB13B4E2-0BA9-446B-9B9F-6C155A1333FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB13B4E2-0BA9-446B-9B9F-6C155A1333FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB13B4E2-0BA9-446B-9B9F-6C155A1333FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB13B4E2-0BA9-446B-9B9F-6C155A1333FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D761A5FF-2B6A-4A9E-B191-2C2689CEA207}
+	EndGlobalSection
+EndGlobal
