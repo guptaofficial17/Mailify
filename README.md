@@ -15,5 +15,6 @@ The Best Mail-Access Checker/Penetesting Tool Ever Made!
 - Twin Turbo
 - SHADOW (Obfuscation)
 - Ruri (Functions.cs)
+- AliRezaCR (ProtonMail Plugin)
 - Blaschuko/Freeload (Mc Anti-Silent Ban)
 
