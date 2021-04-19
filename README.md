@@ -8,7 +8,7 @@ The Best Mail-Access Checker/Penetesting Tool Ever Made!
 - Advanced Outputs!
 
 # Credits 
-- People who have helped me along the way, during this project
+(Below are People who have helped me along the way, during this project)
 
 - Bnja/Biitez
 - Plot
