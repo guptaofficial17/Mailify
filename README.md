@@ -10,6 +10,6 @@ The Best Mail-Access Checker/Penetesting Tool Ever Made!
 # Credits
 - Bnja/Biitez
 - Twin Turbo
-- SHADOW
+- SHADOW (Obfuscation)
 - Ruri (Functions.cs)
 - Blaschuko/Freeload (Mc Anti-Silent Ban)
