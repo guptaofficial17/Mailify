@@ -6,3 +6,10 @@ The Best Mail-Access Checker/Penetesting Tool Ever Made!
 - Unraped APIS
 - Optmized Code
 - Advanced Outputs!
+
+# Credits
+- Bnja/Biitez
+- Twin Turbo
+- SHADOW
+- Ruri (Functions.cs)
+- Blaschuko/Freeload (Anti-Silent Ban)
